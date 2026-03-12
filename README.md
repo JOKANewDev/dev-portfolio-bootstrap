@@ -1,0 +1,2 @@
+# dev-portfolio-bootstrap
+Projeto criado para praticar HTML, CSS e Bootstrap.  O objetivo foi misturar diferentes conceitos aprendidos e criar uma página de perfil com projetos.
